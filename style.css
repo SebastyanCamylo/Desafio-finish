@@ -1,0 +1,37 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#hero-section{
+    background-image:linear-gradient(0deg, rgba(0,0,0,0.6),rgba(0,0,0,0.6) ), ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+span{
+    color: rgb(43, 202, 216)!important;
+}
+
+.width-text{
+    width: 60%;
+}
+
+img{
+    width: 400px;
+}
+
+.icons-skill{
+    width: 100px;
+}
+
+span{
+    color: rgba(222, 227, 128, 0.994)!important;
+}
+
+.misproyectos{
+    background-image:linear-gradient(0deg, rgba(0,0,0,0.5),rgba(0,0,0,0.5) );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: 50px;
+}
