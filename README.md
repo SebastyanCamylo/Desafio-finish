@@ -11,6 +11,6 @@ Proyectos
 
 Forkeados
 
-Forked from https://iPolloyo/desarrollo-portafolio
+Forked from (https://fernandolorca.github.io/desarrollo-portafolio/)
 
-Forked from https://Camijaviera/Camijaviera.github.io
+Forked from (https://javierfdb.github.io/desafio_03_Pos_CSS/)
