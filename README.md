@@ -19,4 +19,3 @@ Commits
 
 [Commit from javierfdb](https://sebastyancamylo.github.io/Git-commit/)
 
-[Commit from javierfdb]
