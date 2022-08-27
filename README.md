@@ -11,12 +11,12 @@ Proyectos
 
 Forkeados
 
-[Forked from] (https://fernandolorca.github.io/desarrollo-portafolio/)
+[Forked from](https://fernandolorca.github.io/desarrollo-portafolio/)
 
-[Forked from] (https://javierfdb.github.io/desafio_03_Pos_CSS/)
+[Forked from](https://javierfdb.github.io/desafio_03_Pos_CSS/)
 
 Commits
 
-[Commit from javierfdb] (https://sebastyancamylo.github.io/Git-commit/)
+[Commit from javierfdb](https://sebastyancamylo.github.io/Git-commit/)
 
 [Commit from javierfdb]
